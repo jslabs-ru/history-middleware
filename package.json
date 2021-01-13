@@ -1,0 +1,16 @@
+{
+  "name": "history-middleware",
+  "version": "0.0.1",
+  "description": "Rewrite get requests with connect-history-api-fallback",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./server"
+  },
+  "keywords": ["connect-history-api-fallback"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-history-api-fallback": "^1.6.0",
+    "express": "^4.17.1"
+  }
+}
